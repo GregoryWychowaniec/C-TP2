@@ -1,0 +1,5 @@
+/home/shygz/C++/c++2/tp_2/build/CMakeFiles/rebuild_cache.dir
+/home/shygz/C++/c++2/tp_2/build/CMakeFiles/edit_cache.dir
+/home/shygz/C++/c++2/tp_2/build/CMakeFiles/tp2_test.dir
+/home/shygz/C++/c++2/tp_2/build/CMakeFiles/tp2_metaprog.dir
+/home/shygz/C++/c++2/tp_2/build/CMakeFiles/tp2_nuage.dir

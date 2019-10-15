@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/tp2_metaprog.dir/src/main_metaprog.cpp.o  -o tp2_metaprog -lpthread -lstdc++ -lm 
